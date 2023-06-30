@@ -10,15 +10,6 @@ const FromParentsToChildren = () => {
     }
     return (
         <div>
-            <nav className="navReactOne">
-                <h3>React Exercises</h3>
-                <div className="refNumbers">
-                    <a href="#" className="link">#1</a>
-                    <a href="#" className="link">#2</a>
-                    <a href="#" className="link">#3</a>
-                    <a href="#" className="link">#4</a>
-                </div>
-            </nav>
             <div className="exerciseOne">
                 <h1>Exercise 3</h1>
                 <div className="backgroundBlue">
